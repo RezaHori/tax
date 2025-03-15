@@ -6,8 +6,6 @@ rel="icon" type="image/png"
 sizes="16x16" href="/icon16.png?v=4"/><link rel="manifest" href="/site.webmanifest?v=4"/><link rel="shortcut icon" \
 
 
-href="/favicon.ico?v=4"/><meta name="msapplication-TileColor" content="#171717"/><meta name="theme-color" content="#171717" 
-
 
             (function(c,l,a,r,i,t,y){
               c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
