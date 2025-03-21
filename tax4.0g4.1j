@@ -17,8 +17,7 @@ sizes="16x16" href="/icon16.png?v=4"/><link rel="manifest" href="/site.webmanife
         position: fixed;
         top: 0;
         visibility: hidden;
-        width: 100%;
-      }
+       
 
       [show-background-image] #backgroundImage {
         visibility: visible;
