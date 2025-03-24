@@ -9,7 +9,6 @@ sizes="16x16" href="/icon16.png?v=4"/><link rel="manifest" href="/site.webmanife
         background: #FFE0E6;
         margin: 0;
       }
-
       #backgroundImage {
         border: none;
         height: 100%;
