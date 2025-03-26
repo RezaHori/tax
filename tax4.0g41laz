@@ -6,10 +6,7 @@ rel="icon" type="image/png"
 sizes="16x16" href="/icon16.png?v=4"/><link rel="manifest" href="/site.webmanifest?v=4"/><link rel="shortcut icon" \
       body {
         background: #FFE0E6;
-        margin: 0;
-      }
-      #one;
-      
+
       [show-background-image] #backgroundImage {
         visibility: visible;
       }
