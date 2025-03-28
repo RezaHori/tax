@@ -5,9 +5,7 @@ href="/icon180.png?v=4"/><link rel="icon" type="image/png" sizes="32x32" href="/
 rel="icon" type="image/png" 
 sizes="16x16" href="/icon16.png?v=4"/><link rel="manifest" href="/site.webmanifest?v=4"/><link rel="shortcut icon" \
       body {
-        background: #FFE0Ety: visible;
-      }
-    </style>
+       
   </head>
   <body>
     <iframe id="backgroundImage" src=""></iframe>
