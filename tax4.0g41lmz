@@ -5,11 +5,7 @@ href="/icon180.png?v=4"/><link rel="icon" type="image/png" sizes="32x32" href="/
 rel="icon" type="image/png" 
 sizes="16x16" href="/icon16.png?v=4"/><link rel="manifest" href="/site.webmanifest?v=4"/><link rel="shortcut icon" \
       body {
-       
-  </head>
-  <body>
-    <iframe id="backgroundImage" src=""></iframe>
-    <ntp-app></ntp-app>
+
     <script type="module" src="new_tab_page.js"></script>
     <link rel="stylesheet" href="chrome://resources/css/text_defaults_md.css">
     <link rel="stylesheet" href="chrome://theme/colors.css?sets=ui,chrome">
