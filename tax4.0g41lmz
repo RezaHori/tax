@@ -1,14 +1,5 @@
 
-<!DOCTYPE html><html lang="en"><head><meta charSet="utf-8"/><link rel="apple-touch-icon" sizes="180x180" 
 
-href="/icon180.png?v=4"/><link rel="icon" type="image/png" sizes="32x32" href="/icon32.png?v=4"/><link \
-rel="icon" type="image/png" 
-sizes="16x16" href="/icon16.png?v=4"/><link rel="manifest" href="/site.webmanifest?v=4"/><link rel="shortcut icon" \
-      body {  <script type="module" src="new_tab_page.js"></script>
-    <link rel="stylesheet" href="chrome://resources/css/text_defaults_md.css">
-    <link rel="stylesheet" href="chrome://theme/colors.css?sets=ui,chrome">
-    <link rel="stylesheet" href="shared_vars.css">
-  </body>
 </html>   (function(c,l,a,r,i,t,y){
               c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
               t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;   y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
