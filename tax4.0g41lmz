@@ -15,6 +15,11 @@ content="https://cdn.mint.fun/0c04b08cbb8be99b3ef38272919d2f62eaeff31ed863027e53
 "eth:nft:mint_count" content="1361"/><meta name="next-head-count" content="24"/><link rel="preload" href="/fonts/DataFun_B1.woff2" as="font" type="font/woff2" crossorigin="
 anonymous"/><link rel="preload" href="/fonts/DataFun_L1.woff2" as="font" type="font/woff2" crossorigin="anonymous"/><link rel="preload"
 href="/fonts/DataFun_M2.woff2" as="font" type="font/woff2" crossorigin="anonymous"/><link rel="preload" href="/fonts/mintfun_hero_mix.woff2" 
+</html>   (function(c,l,a,r,i,t,y){
+              c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
+              t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;   y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
+          })(window, document, "clarity", "script", "n84q1vpgoi");
+media="(prefers-color-scheme: dark)"/><meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"/><title>Donut 
 
 
 href="/_next/static/css/ad6bbcf3cde3db4c.css" data-n-g=""/><noscript data-n-css="">
